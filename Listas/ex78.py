@@ -21,4 +21,4 @@ for i, v in enumerate(listanum):
 print(f'O menor valor digitado foi {menor} nas posições ', end='')
 for i, v, in enumerate(listanum):
     if v == menor:
-        print(f'{i}...', end='')toledo a
+        print(f'{i}...', end='')
